@@ -1,6 +1,6 @@
 # Deep-Learning-Coursera
 Instructor: Andrew Ng
 # Introduction
-This repo contains all my work for this specialization. All the programming assignment solution are available in this repository.
+This repository contains all my work for this specialization Deep Learning Coursera by Andrew Ng. 
 
 
